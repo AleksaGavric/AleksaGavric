@@ -3,5 +3,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksagavric&theme=radical">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aleksagavric&show_icons=true&theme=radical">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 I'm a CS student @ UofR. Currently learning C, Solidity and Python! Feel free to contribute to any of my repos. 
