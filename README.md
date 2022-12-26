@@ -4,4 +4,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aleksagavric&show_icons=true&theme=radical">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-I'm a CS student @ UofR. Currently learning C, Solidity and Python! Feel free to contribute to any of my repos. 
+I'm a CS student @ UofR. Feel free to contribute to any of my repos. 
