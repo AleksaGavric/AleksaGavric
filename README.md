@@ -4,4 +4,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aleksagavric&show_icons=true&theme=radical">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-I'm a CS student @ UofR. Feel free to contribute to any of my repos. 
+I'm a CS student @ Univeristy of Rochester. Interested in MLOps and SWE. Fascinated by all types of engineering (isn't the world fricking beautiful?!)
