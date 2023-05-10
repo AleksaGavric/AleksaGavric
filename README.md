@@ -1,4 +1,6 @@
-<div style="display: flex;">
+# Hello, and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<div style="display: flex;" align="center">
   <div style="flex: 1;">
     <img src="/github-metrics.svg" alt="Metrics" width="50%">
   </div>
