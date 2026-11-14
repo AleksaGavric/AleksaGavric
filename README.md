@@ -1,6 +1,6 @@
 # Aleksa Gavric
 
-Software Engineer II at Microsoft, based in New York. I work on Azure infrastructure, AI applications and tools that make complex engineering workflows easier to understand and operate.
+Software Engineer at Microsoft, based in New York. I work on Azure infrastructure, AI applications and tools that make complex engineering workflows easier to understand and operate.
 
 [Website](https://aleksagavric.com/) · [LinkedIn](https://www.linkedin.com/in/aleksa-gavric/)
 
@@ -22,6 +22,3 @@ At Microsoft, my current work includes retrospective regional buildout analysis 
 
 Python · C++ · TypeScript · Azure · API development · AI applications · coding-agent workflows
 
-Outside software: music, books and philosophy.
-
-Older coursework and experiments remain public as learning history. Forks retain their upstream attribution; the linked PRs describe my specific contributions.
